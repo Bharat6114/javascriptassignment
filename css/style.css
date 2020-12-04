@@ -1,0 +1,87 @@
+
+/*design code for digital watch*/ 
+#clock { 
+            font-size: 175px; 
+            width: 900px; 
+            margin: 20px; 
+            text-align: center; 
+            border: 2px solid black; 
+            border-radius: 20px; 
+        } 
+
+
+/*design style for circumstance of circle*/
+#circle{
+	font-size: 175px; 
+     width: 900px; 
+     margin: 20px; 
+     text-align: center; 
+     border: 2px solid black; 
+    border-radius: 20px; 
+
+}
+
+/*design style for place*/
+
+#place{
+	font-size: 175px; 
+     width: 900px; 
+     margin: 20px; 
+     text-align: center; 
+     border: 2px solid black; 
+    border-radius: 20px; 
+
+}
+/*design style for tipcalculator*/
+
+#calculator{
+	font-size: 11px; 
+     width: 900px;
+
+     height: 300px; 
+     margin: 20px; 
+     text-align: center; 
+     border: 2px solid black; 
+    border-radius: 20px; 
+}
+#calculator,form{
+	width: 40%
+	text-align:center;
+}
+#peopleamt{
+	width: 40%
+}
+#billamt{
+	width: 40%
+}
+
+
+
+
+/*design style for calculator*/
+
+
+ .calculator{ 
+         margin-bottom: 10px; 
+         text-align:center; 
+         width: 200px;
+         height: 200px; 
+         color:orange; 
+         border: solid black 2px; 
+         } 
+  
+         input[type="button"] 
+         { 
+         background-color:orange; 
+         color: black; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+
